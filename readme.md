@@ -8,17 +8,17 @@ questions below.
 4. Find Top 5 Most common location pairs (PUlocationID and DOlocationID) ?
 
 here is the output: 
-![dag](https://github.com/mfazimabks/DIGITAL_SKOLA-PROJECT-5/assets/139736510/08d89a73-3aa4-4a4e-96b7-5b5db5a46b9e)
-![dag1](https://github.com/mfazimabks/DIGITAL_SKOLA-PROJECT-5/assets/139736510/c6348d09-1f06-4133-9960-75764ce612a7)
+![dag](https://github.com/mfazimabks/PROJECT5/assets/139736510/6985a132-c9ed-4986-a473-8d1749510b31)
+![dag1](https://github.com/mfazimabks/PROJECT5/assets/139736510/d3526090-310d-4067-8bbf-5a82ea32d876)
 
 1.
-![dag_taxiTripsFebruary_15](https://github.com/mfazimabks/DIGITAL_SKOLA-PROJECT-5/assets/139736510/4ff7a31d-dfff-4da5-ae83-f8e4dae3f075)
+![dag_taxiTripsFebruary_15](https://github.com/mfazimabks/PROJECT5/assets/139736510/bdfe1155-a794-4c0f-92ac-d1ed1321b17a)
 2.
-![dag_longestTripEachDays](https://github.com/mfazimabks/DIGITAL_SKOLA-PROJECT-5/assets/139736510/38e6ebf3-75c4-42fd-92b1-5ddf15e56e48)
+![dag_longestTripEachDays](https://github.com/mfazimabks/PROJECT5/assets/139736510/fcbbb398-c2d0-4729-ab86-04f467b97d8d)
 3.
-![dag_top5mostFrequent](https://github.com/mfazimabks/DIGITAL_SKOLA-PROJECT-5/assets/139736510/9058d1f8-7572-41e9-a5e0-6092103b14f4)
+![dag_top5mostFrequent](https://github.com/mfazimabks/PROJECT5/assets/139736510/fd60942c-5af2-4357-8883-84d53523bc6d)
 4.
-![dag_top5mostCommonLocationPairs](https://github.com/mfazimabks/DIGITAL_SKOLA-PROJECT-5/assets/139736510/279bc4dd-90a8-4735-8d14-b37a763026db)
+![dag_top5mostCommonLocationPairs](https://github.com/mfazimabks/PROJECT5/assets/139736510/2faeb0e7-d7aa-4f43-a038-9a64bf6b8644)
 output on vscode:
 
-![OUTPUT _project_5_azima_py](https://github.com/mfazimabks/DIGITAL_SKOLA-PROJECT-5/assets/139736510/4cdf4ba6-79d0-4788-9f17-6f626d1d3c77)
+![OUTPUT _project_5_azima_py](https://github.com/mfazimabks/PROJECT5/assets/139736510/d80547b1-554a-419b-b158-421fbf73d7a3)
